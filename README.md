@@ -8,7 +8,8 @@
   </a>                                                       
 </p>
                                                            
-Stylish Graph APIs.
+Stylish Graph APIs. 
+Graphiti makes RESTful Resources a first-class concept. This enables reading and writing a graph of data in a single request, a schema with backwards-compatible guarantee, end-to-end integration test patterns, seamless microservices and much more.
 
 [Website](https://www.graphiti.dev/guides/)
 
